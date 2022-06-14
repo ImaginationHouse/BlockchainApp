@@ -25,7 +25,7 @@ SECRET_KEY = 'mim_*c-n(fe1mn*9thp(=ee!r%-+as5-^g2)c@*js-!40rv03='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','']
+ALLOWED_HOSTS = ['127.0.0.1','decenteralizedblockchainapp.herokuapp.com/']
 
 # Application definition
 
